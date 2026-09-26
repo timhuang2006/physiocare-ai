@@ -1,0 +1,17 @@
+# 虛擬環境
+.venv/
+
+# Python 緩存
+__pycache__/
+*.pyc
+
+# 編輯器設定
+.vscode/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# 資料與模型（如果有敏感或大檔案）
+data/*.csv
+models/*.pkl
